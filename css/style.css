@@ -21,12 +21,13 @@ body{
 
 }
 
-/* .box-main{
-    background-color: red;
+main{
+   
     width: 80%;
     margin: 0 auto;
 
-} */
+}
+
 .didascalia{
     color: lightgrey;
 }
@@ -62,6 +63,11 @@ th{
 
 .celeste{
     background-color: lightblue;
+}
+
+footer{
+    width: 80%;
+    margin: 0 auto;
 }
 
 .monitor{
