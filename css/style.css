@@ -2,24 +2,39 @@ html{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+body{
+    margin: 0;
+}
 
 .banner{
     background-color: rgb(34, 168, 235);
-    height: 150px;
+    max-width: 100%;
     background-image: url(../img/img/pattern.png);
     background-repeat: repeat;
-    margin: auto;
+    margin: 0 auto;
+    height: 150px;
+    background-size: 30%;
+    line-height: 150px;
+    
 }
 
 .logo{
-  
+    height: 70px;
+    width:auto;
+    vertical-align: middle;
+
 }
+
+.main-header{}
 
 /* .box-main{
     background-color: red;
     widht: 80%;
 
 } */
+.didascalia{
+    color: lightgrey;
+}
 
 .anchor{
     color: aqua;
