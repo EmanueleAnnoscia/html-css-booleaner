@@ -5,7 +5,7 @@ body{
 .banner{
     background-color: rgb(34, 168, 235);
     max-width: 100%;
-    background-image: url(../img/img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-repeat: repeat;
     margin: 0 auto;
     height: 150px;
@@ -23,7 +23,8 @@ body{
 
 /* .box-main{
     background-color: red;
-    widht: 80%;
+    width: 80%;
+    margin: 0 auto;
 
 } */
 .didascalia{
@@ -66,7 +67,7 @@ th{
 .monitor{
   width: 210px;
   height: 160px;
-  background-image: url(../img/img/monitor.jpg);
+  background-image: url(../img/monitor.jpg);
   margin-bottom: 15px;
   color: white;
   background-size: cover;
@@ -80,7 +81,7 @@ th{
 .graph{
     width: 210px;
     height: 160px;
-    background-image: url(../img/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     color: white;
     background-size: cover;
 }
